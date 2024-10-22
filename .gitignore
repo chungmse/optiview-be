@@ -1,0 +1,16 @@
+# System files
+node_modules/
+package-lock.json
+
+# Build and generated files
+build/
+
+# Environment files
+.env
+.env.prod
+
+# OS system folders
+.DS_Store
+
+# IDE/Editor configuration files
+.vscode/
